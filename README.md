@@ -1,7 +1,7 @@
 # RGB-Guessing-Game
 
 * A simple RGB guessing game built in JavaScript.
-* Two Levels of difficulty: Easy (3 colors) and Hard (6 colors).
+* Two Levels of difficulty: Easy (3 colors), Medium (6 colors) and Hard (9 colors).
 
 ### Master your RGB color capacity!
 
